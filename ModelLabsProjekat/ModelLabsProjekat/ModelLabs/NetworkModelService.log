@@ -1,0 +1,1098 @@
+16.03.2023. 14:20:29 : Starting Network Model Serivice...
+16.03.2023. 14:20:30 : The WCF service GenericDataAccess is ready.
+16.03.2023. 14:20:30 : Endpoints:
+16.03.2023. 14:20:30 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16.03.2023. 14:20:30 : Connection string: ../NetworkModelData.data
+16.03.2023. 14:20:30 : Trace level: Info
+16.03.2023. 14:20:30 : The Network Model Service is started.
+16.03.2023. 14:20:30 : Press <Enter> to stop the service.
+22.03.2023. 14:45:10 : Starting Network Model Serivice...
+22.03.2023. 14:45:12 : The WCF service GenericDataAccess is ready.
+22.03.2023. 14:45:12 : Endpoints:
+22.03.2023. 14:45:12 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 14:45:12 : Connection string: ../NetworkModelData.data
+22.03.2023. 14:45:12 : Trace level: Info
+22.03.2023. 14:45:12 : The Network Model Service is started.
+22.03.2023. 14:45:12 : Press <Enter> to stop the service.
+22.03.2023. 14:45:45 : Applying  delta to network model.
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000100000001).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000200000001).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000300000001).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000300000002).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000400000001).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000400000002).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000500000001).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000500000002).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000600000001).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000600000002).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000001).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000002).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000003).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000004).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000005).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000006).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000007).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000008).
+22.03.2023. 14:45:46 : Inserting entity with GID (0000000700000009).
+22.03.2023. 14:45:46 : Inserting entity with GID (000000070000000a).
+22.03.2023. 14:45:46 : Inserting entity with GID (000000070000000b).
+22.03.2023. 14:45:46 : Inserting entity with GID (000000070000000c).
+22.03.2023. 14:45:46 : Applying delta to network model successfully finished.
+22.03.2023. 15:12:50 : Starting Network Model Serivice...
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000100000001).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000200000001).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000300000001).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000300000002).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000400000001).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000400000002).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000500000001).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000500000002).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000600000001).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000600000002).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000001).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000002).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000003).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000004).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000005).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000006).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000007).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000008).
+22.03.2023. 15:12:51 : Inserting entity with GID (0000000700000009).
+22.03.2023. 15:12:51 : Inserting entity with GID (000000070000000a).
+22.03.2023. 15:12:51 : Inserting entity with GID (000000070000000b).
+22.03.2023. 15:12:51 : Inserting entity with GID (000000070000000c).
+22.03.2023. 15:12:52 : The WCF service GenericDataAccess is ready.
+22.03.2023. 15:12:52 : Endpoints:
+22.03.2023. 15:12:52 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 15:12:52 : Connection string: ../NetworkModelData.data
+22.03.2023. 15:12:52 : Trace level: Info
+22.03.2023. 15:12:52 : The Network Model Service is started.
+22.03.2023. 15:12:52 : Press <Enter> to stop the service.
+22.03.2023. 15:19:16 : Starting Network Model Serivice...
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000100000001).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000200000001).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000300000001).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000300000002).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000400000001).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000400000002).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000500000001).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000500000002).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000600000001).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000600000002).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000001).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000002).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000003).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000004).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000005).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000006).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000007).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000008).
+22.03.2023. 15:19:16 : Inserting entity with GID (0000000700000009).
+22.03.2023. 15:19:16 : Inserting entity with GID (000000070000000a).
+22.03.2023. 15:19:16 : Inserting entity with GID (000000070000000b).
+22.03.2023. 15:19:16 : Inserting entity with GID (000000070000000c).
+22.03.2023. 15:19:17 : The WCF service GenericDataAccess is ready.
+22.03.2023. 15:19:17 : Endpoints:
+22.03.2023. 15:19:17 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 15:19:17 : Connection string: ../NetworkModelData.data
+22.03.2023. 15:19:17 : Trace level: Info
+22.03.2023. 15:19:17 : The Network Model Service is started.
+22.03.2023. 15:19:17 : Press <Enter> to stop the service.
+22.03.2023. 15:30:06 : Starting Network Model Serivice...
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000100000001).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000200000001).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000300000001).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000300000002).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000400000001).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000400000002).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000500000001).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000500000002).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000600000001).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000600000002).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000001).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000002).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000003).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000004).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000005).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000006).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000007).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000008).
+22.03.2023. 15:30:06 : Inserting entity with GID (0000000700000009).
+22.03.2023. 15:30:06 : Inserting entity with GID (000000070000000a).
+22.03.2023. 15:30:06 : Inserting entity with GID (000000070000000b).
+22.03.2023. 15:30:06 : Inserting entity with GID (000000070000000c).
+22.03.2023. 15:30:07 : The WCF service GenericDataAccess is ready.
+22.03.2023. 15:30:07 : Endpoints:
+22.03.2023. 15:30:07 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 15:30:07 : Connection string: ../NetworkModelData.data
+22.03.2023. 15:30:07 : Trace level: Info
+22.03.2023. 15:30:07 : The Network Model Service is started.
+22.03.2023. 15:30:07 : Press <Enter> to stop the service.
+22.03.2023. 15:34:57 : Starting Network Model Serivice...
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000100000001).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000200000001).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000300000001).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000300000002).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000400000001).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000400000002).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000500000001).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000500000002).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000600000001).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000600000002).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000001).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000002).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000003).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000004).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000005).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000006).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000007).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000008).
+22.03.2023. 15:34:57 : Inserting entity with GID (0000000700000009).
+22.03.2023. 15:34:57 : Inserting entity with GID (000000070000000a).
+22.03.2023. 15:34:57 : Inserting entity with GID (000000070000000b).
+22.03.2023. 15:34:57 : Inserting entity with GID (000000070000000c).
+22.03.2023. 15:34:59 : The WCF service GenericDataAccess is ready.
+22.03.2023. 15:34:59 : Endpoints:
+22.03.2023. 15:34:59 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 15:34:59 : Connection string: ../NetworkModelData.data
+22.03.2023. 15:34:59 : Trace level: Info
+22.03.2023. 15:34:59 : The Network Model Service is started.
+22.03.2023. 15:34:59 : Press <Enter> to stop the service.
+22.03.2023. 16:05:41 : Starting Network Model Serivice...
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000100000001).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000200000001).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000300000001).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000300000002).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000400000001).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000400000002).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000500000001).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000500000002).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000600000001).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000600000002).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000001).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000002).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000003).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000004).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000005).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000006).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000007).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000008).
+22.03.2023. 16:05:41 : Inserting entity with GID (0000000700000009).
+22.03.2023. 16:05:41 : Inserting entity with GID (000000070000000a).
+22.03.2023. 16:05:41 : Inserting entity with GID (000000070000000b).
+22.03.2023. 16:05:41 : Inserting entity with GID (000000070000000c).
+22.03.2023. 16:05:42 : The WCF service GenericDataAccess is ready.
+22.03.2023. 16:05:42 : Endpoints:
+22.03.2023. 16:05:42 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 16:05:42 : Connection string: ../NetworkModelData.data
+22.03.2023. 16:05:42 : Trace level: Info
+22.03.2023. 16:05:42 : The Network Model Service is started.
+22.03.2023. 16:05:42 : Press <Enter> to stop the service.
+22.03.2023. 16:14:01 : Starting Network Model Serivice...
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000100000001).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000200000001).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000300000001).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000300000002).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000400000001).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000400000002).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000500000001).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000500000002).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000600000001).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000600000002).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000001).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000002).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000003).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000004).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000005).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000006).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000007).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000008).
+22.03.2023. 16:14:01 : Inserting entity with GID (0000000700000009).
+22.03.2023. 16:14:01 : Inserting entity with GID (000000070000000a).
+22.03.2023. 16:14:01 : Inserting entity with GID (000000070000000b).
+22.03.2023. 16:14:01 : Inserting entity with GID (000000070000000c).
+22.03.2023. 16:14:02 : The WCF service GenericDataAccess is ready.
+22.03.2023. 16:14:02 : Endpoints:
+22.03.2023. 16:14:02 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 16:14:02 : Connection string: ../NetworkModelData.data
+22.03.2023. 16:14:02 : Trace level: Info
+22.03.2023. 16:14:02 : The Network Model Service is started.
+22.03.2023. 16:14:02 : Press <Enter> to stop the service.
+22.03.2023. 16:50:10 : Starting Network Model Serivice...
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000100000001).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000200000001).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000300000001).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000300000002).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000400000001).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000400000002).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000500000001).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000500000002).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000600000001).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000600000002).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000001).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000002).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000003).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000004).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000005).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000006).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000007).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000008).
+22.03.2023. 16:50:10 : Inserting entity with GID (0000000700000009).
+22.03.2023. 16:50:10 : Inserting entity with GID (000000070000000a).
+22.03.2023. 16:50:10 : Inserting entity with GID (000000070000000b).
+22.03.2023. 16:50:10 : Inserting entity with GID (000000070000000c).
+22.03.2023. 16:50:10 : The WCF service GenericDataAccess is ready.
+22.03.2023. 16:50:10 : Endpoints:
+22.03.2023. 16:50:10 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 16:50:10 : Connection string: ../NetworkModelData.data
+22.03.2023. 16:50:10 : Trace level: Info
+22.03.2023. 16:50:10 : The Network Model Service is started.
+22.03.2023. 16:50:10 : Press <Enter> to stop the service.
+22.03.2023. 18:04:32 : Starting Network Model Serivice...
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000100000001).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000200000001).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000300000001).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000300000002).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000400000001).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000400000002).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000500000001).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000500000002).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000600000001).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000600000002).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000001).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000002).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000003).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000004).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000005).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000006).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000007).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000008).
+22.03.2023. 18:04:32 : Inserting entity with GID (0000000700000009).
+22.03.2023. 18:04:32 : Inserting entity with GID (000000070000000a).
+22.03.2023. 18:04:32 : Inserting entity with GID (000000070000000b).
+22.03.2023. 18:04:32 : Inserting entity with GID (000000070000000c).
+22.03.2023. 18:04:32 : The WCF service GenericDataAccess is ready.
+22.03.2023. 18:04:32 : Endpoints:
+22.03.2023. 18:04:32 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 18:04:32 : Connection string: ../NetworkModelData.data
+22.03.2023. 18:04:32 : Trace level: Info
+22.03.2023. 18:04:32 : The Network Model Service is started.
+22.03.2023. 18:04:32 : Press <Enter> to stop the service.
+22.03.2023. 18:17:58 : Starting Network Model Serivice...
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000100000001).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000200000001).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000300000001).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000300000002).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000400000001).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000400000002).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000500000001).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000500000002).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000600000001).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000600000002).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000001).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000002).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000003).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000004).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000005).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000006).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000007).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000008).
+22.03.2023. 18:17:58 : Inserting entity with GID (0000000700000009).
+22.03.2023. 18:17:58 : Inserting entity with GID (000000070000000a).
+22.03.2023. 18:17:58 : Inserting entity with GID (000000070000000b).
+22.03.2023. 18:17:58 : Inserting entity with GID (000000070000000c).
+22.03.2023. 18:17:59 : The WCF service GenericDataAccess is ready.
+22.03.2023. 18:17:59 : Endpoints:
+22.03.2023. 18:17:59 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 18:17:59 : Connection string: ../NetworkModelData.data
+22.03.2023. 18:17:59 : Trace level: Info
+22.03.2023. 18:17:59 : The Network Model Service is started.
+22.03.2023. 18:17:59 : Press <Enter> to stop the service.
+22.03.2023. 20:12:43 : Starting Network Model Serivice...
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000100000001).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000200000001).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000300000001).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000300000002).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000400000001).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000400000002).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000500000001).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000500000002).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000600000001).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000600000002).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000001).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000002).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000003).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000004).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000005).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000006).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000007).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000008).
+22.03.2023. 20:12:43 : Inserting entity with GID (0000000700000009).
+22.03.2023. 20:12:43 : Inserting entity with GID (000000070000000a).
+22.03.2023. 20:12:43 : Inserting entity with GID (000000070000000b).
+22.03.2023. 20:12:43 : Inserting entity with GID (000000070000000c).
+22.03.2023. 20:12:44 : The WCF service GenericDataAccess is ready.
+22.03.2023. 20:12:44 : Endpoints:
+22.03.2023. 20:12:44 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 20:12:44 : Connection string: ../NetworkModelData.data
+22.03.2023. 20:12:44 : Trace level: Info
+22.03.2023. 20:12:44 : The Network Model Service is started.
+22.03.2023. 20:12:44 : Press <Enter> to stop the service.
+22.03.2023. 20:59:04 : Starting Network Model Serivice...
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000100000001).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000200000001).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000300000001).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000300000002).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000400000001).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000400000002).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000500000001).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000500000002).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000600000001).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000600000002).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000001).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000002).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000003).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000004).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000005).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000006).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000007).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000008).
+22.03.2023. 20:59:04 : Inserting entity with GID (0000000700000009).
+22.03.2023. 20:59:04 : Inserting entity with GID (000000070000000a).
+22.03.2023. 20:59:04 : Inserting entity with GID (000000070000000b).
+22.03.2023. 20:59:04 : Inserting entity with GID (000000070000000c).
+22.03.2023. 20:59:04 : The WCF service GenericDataAccess is ready.
+22.03.2023. 20:59:05 : Endpoints:
+22.03.2023. 20:59:05 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 20:59:05 : Connection string: ../NetworkModelData.data
+22.03.2023. 20:59:05 : Trace level: Info
+22.03.2023. 20:59:05 : The Network Model Service is started.
+22.03.2023. 20:59:05 : Press <Enter> to stop the service.
+22.03.2023. 21:21:38 : Starting Network Model Serivice...
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000100000001).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000200000001).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000300000001).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000300000002).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000400000001).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000400000002).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000500000001).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000500000002).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000600000001).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000600000002).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000001).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000002).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000003).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000004).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000005).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000006).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000007).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000008).
+22.03.2023. 21:21:38 : Inserting entity with GID (0000000700000009).
+22.03.2023. 21:21:38 : Inserting entity with GID (000000070000000a).
+22.03.2023. 21:21:38 : Inserting entity with GID (000000070000000b).
+22.03.2023. 21:21:38 : Inserting entity with GID (000000070000000c).
+22.03.2023. 21:21:38 : The WCF service GenericDataAccess is ready.
+22.03.2023. 21:21:38 : Endpoints:
+22.03.2023. 21:21:38 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 21:21:38 : Connection string: ../NetworkModelData.data
+22.03.2023. 21:21:38 : Trace level: Info
+22.03.2023. 21:21:38 : The Network Model Service is started.
+22.03.2023. 21:21:38 : Press <Enter> to stop the service.
+22.03.2023. 21:21:56 : Applying  delta to network model.
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000100000002).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000200000002).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000300000003).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000300000004).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000400000003).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000400000004).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000500000003).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000500000004).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000600000003).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000600000004).
+22.03.2023. 21:21:56 : Inserting entity with GID (000000070000000d).
+22.03.2023. 21:21:56 : Inserting entity with GID (000000070000000e).
+22.03.2023. 21:21:56 : Inserting entity with GID (000000070000000f).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000010).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000011).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000012).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000013).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000014).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000015).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000016).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000017).
+22.03.2023. 21:21:56 : Inserting entity with GID (0000000700000018).
+22.03.2023. 21:21:56 : Applying delta to network model successfully finished.
+22.03.2023. 22:15:07 : Starting Network Model Serivice...
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000100000001).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000200000001).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000300000001).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000300000002).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000400000001).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000400000002).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000500000001).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000500000002).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000600000001).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000600000002).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000001).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000002).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000003).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000004).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000005).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000006).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000007).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000008).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000009).
+22.03.2023. 22:15:07 : Inserting entity with GID (000000070000000a).
+22.03.2023. 22:15:07 : Inserting entity with GID (000000070000000b).
+22.03.2023. 22:15:07 : Inserting entity with GID (000000070000000c).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000100000002).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000200000002).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000300000003).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000300000004).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000400000003).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000400000004).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000500000003).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000500000004).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000600000003).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000600000004).
+22.03.2023. 22:15:07 : Inserting entity with GID (000000070000000d).
+22.03.2023. 22:15:07 : Inserting entity with GID (000000070000000e).
+22.03.2023. 22:15:07 : Inserting entity with GID (000000070000000f).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000010).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000011).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000012).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000013).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000014).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000015).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000016).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000017).
+22.03.2023. 22:15:07 : Inserting entity with GID (0000000700000018).
+22.03.2023. 22:15:08 : The WCF service GenericDataAccess is ready.
+22.03.2023. 22:15:08 : Endpoints:
+22.03.2023. 22:15:08 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.03.2023. 22:15:08 : Connection string: ../NetworkModelData.data
+22.03.2023. 22:15:08 : Trace level: Info
+22.03.2023. 22:15:08 : The Network Model Service is started.
+22.03.2023. 22:15:08 : Press <Enter> to stop the service.
+22.03.2023. 22:15:27 : Applying  delta to network model.
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000100000003).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000200000003).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000300000005).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000300000006).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000400000005).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000400000006).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000500000005).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000500000006).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000600000005).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000600000006).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000700000019).
+22.03.2023. 22:15:28 : Inserting entity with GID (000000070000001a).
+22.03.2023. 22:15:28 : Inserting entity with GID (000000070000001b).
+22.03.2023. 22:15:28 : Inserting entity with GID (000000070000001c).
+22.03.2023. 22:15:28 : Inserting entity with GID (000000070000001d).
+22.03.2023. 22:15:28 : Inserting entity with GID (000000070000001e).
+22.03.2023. 22:15:28 : Inserting entity with GID (000000070000001f).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000700000020).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000700000021).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000700000022).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000700000023).
+22.03.2023. 22:15:28 : Inserting entity with GID (0000000700000024).
+22.03.2023. 22:15:28 : Applying delta to network model successfully finished.
+23.03.2023. 20:45:13 : Starting Network Model Serivice...
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000100000001).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000200000001).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000300000001).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000300000002).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000400000001).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000400000002).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000500000001).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000500000002).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000600000001).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000600000002).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000001).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000002).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000003).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000004).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000005).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000006).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000007).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000008).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000009).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000000a).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000000b).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000000c).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000100000002).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000200000002).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000300000003).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000300000004).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000400000003).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000400000004).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000500000003).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000500000004).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000600000003).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000600000004).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000000d).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000000e).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000000f).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000010).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000011).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000012).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000013).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000014).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000015).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000016).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000017).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000018).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000100000003).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000200000003).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000300000005).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000300000006).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000400000005).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000400000006).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000500000005).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000500000006).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000600000005).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000600000006).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000019).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000001a).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000001b).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000001c).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000001d).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000001e).
+23.03.2023. 20:45:13 : Inserting entity with GID (000000070000001f).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000020).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000021).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000022).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000023).
+23.03.2023. 20:45:13 : Inserting entity with GID (0000000700000024).
+23.03.2023. 20:45:15 : The WCF service GenericDataAccess is ready.
+23.03.2023. 20:45:15 : Endpoints:
+23.03.2023. 20:45:15 : net.tcp://localhost:10000/NetworkModelService/GDA/
+23.03.2023. 20:45:15 : Connection string: ../NetworkModelData.data
+23.03.2023. 20:45:15 : Trace level: Info
+23.03.2023. 20:45:15 : The Network Model Service is started.
+23.03.2023. 20:45:15 : Press <Enter> to stop the service.
+23.03.2023. 21:38:33 : Starting Network Model Serivice...
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000100000001).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000200000001).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000300000001).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000300000002).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000400000001).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000400000002).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000500000001).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000500000002).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000600000001).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000600000002).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000001).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000002).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000003).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000004).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000005).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000006).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000007).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000008).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000009).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000000a).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000000b).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000000c).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000100000002).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000200000002).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000300000003).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000300000004).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000400000003).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000400000004).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000500000003).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000500000004).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000600000003).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000600000004).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000000d).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000000e).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000000f).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000010).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000011).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000012).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000013).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000014).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000015).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000016).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000017).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000018).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000100000003).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000200000003).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000300000005).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000300000006).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000400000005).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000400000006).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000500000005).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000500000006).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000600000005).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000600000006).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000019).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000001a).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000001b).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000001c).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000001d).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000001e).
+23.03.2023. 21:38:33 : Inserting entity with GID (000000070000001f).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000020).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000021).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000022).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000023).
+23.03.2023. 21:38:33 : Inserting entity with GID (0000000700000024).
+23.03.2023. 21:38:34 : The WCF service GenericDataAccess is ready.
+23.03.2023. 21:38:34 : Endpoints:
+23.03.2023. 21:38:34 : net.tcp://localhost:10000/NetworkModelService/GDA/
+23.03.2023. 21:38:34 : Connection string: ../NetworkModelData.data
+23.03.2023. 21:38:34 : Trace level: Info
+23.03.2023. 21:38:34 : The Network Model Service is started.
+23.03.2023. 21:38:34 : Press <Enter> to stop the service.
+26.03.2023. 0:18:48 : Starting Network Model Serivice...
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000100000001).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000200000001).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000300000001).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000300000002).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000400000001).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000400000002).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000500000001).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000500000002).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000600000001).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000600000002).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000001).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000002).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000003).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000004).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000005).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000006).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000007).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000008).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000009).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000000a).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000000b).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000000c).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000100000002).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000200000002).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000300000003).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000300000004).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000400000003).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000400000004).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000500000003).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000500000004).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000600000003).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000600000004).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000000d).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000000e).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000000f).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000010).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000011).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000012).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000013).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000014).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000015).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000016).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000017).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000018).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000100000003).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000200000003).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000300000005).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000300000006).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000400000005).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000400000006).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000500000005).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000500000006).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000600000005).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000600000006).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000019).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000001a).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000001b).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000001c).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000001d).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000001e).
+26.03.2023. 0:18:48 : Inserting entity with GID (000000070000001f).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000020).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000021).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000022).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000023).
+26.03.2023. 0:18:48 : Inserting entity with GID (0000000700000024).
+26.03.2023. 0:18:49 : The WCF service GenericDataAccess is ready.
+26.03.2023. 0:18:49 : Endpoints:
+26.03.2023. 0:18:49 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 0:18:49 : Connection string: ../NetworkModelData.data
+26.03.2023. 0:18:49 : Trace level: Info
+26.03.2023. 0:18:49 : The Network Model Service is started.
+26.03.2023. 0:18:49 : Press <Enter> to stop the service.
+26.03.2023. 17:50:38 : Starting Network Model Serivice...
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000100000001).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000200000001).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000300000001).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000300000002).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000400000001).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000400000002).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000500000001).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000500000002).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000600000001).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000600000002).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000001).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000002).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000003).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000004).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000005).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000006).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000007).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000008).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000009).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000000a).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000000b).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000000c).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000100000002).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000200000002).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000300000003).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000300000004).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000400000003).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000400000004).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000500000003).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000500000004).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000600000003).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000600000004).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000000d).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000000e).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000000f).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000010).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000011).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000012).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000013).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000014).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000015).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000016).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000017).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000018).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000100000003).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000200000003).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000300000005).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000300000006).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000400000005).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000400000006).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000500000005).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000500000006).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000600000005).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000600000006).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000019).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000001a).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000001b).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000001c).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000001d).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000001e).
+26.03.2023. 17:50:38 : Inserting entity with GID (000000070000001f).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000020).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000021).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000022).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000023).
+26.03.2023. 17:50:38 : Inserting entity with GID (0000000700000024).
+26.03.2023. 17:50:39 : The WCF service GenericDataAccess is ready.
+26.03.2023. 17:50:39 : Endpoints:
+26.03.2023. 17:50:39 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 17:50:39 : Connection string: ../NetworkModelData.data
+26.03.2023. 17:50:39 : Trace level: Info
+26.03.2023. 17:50:39 : The Network Model Service is started.
+26.03.2023. 17:50:39 : Press <Enter> to stop the service.
+26.03.2023. 17:52:49 : Starting Network Model Serivice...
+26.03.2023. 17:52:50 : The WCF service GenericDataAccess is ready.
+26.03.2023. 17:52:50 : Endpoints:
+26.03.2023. 17:52:50 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 17:52:50 : Connection string: ../NetworkModelData.data
+26.03.2023. 17:52:50 : Trace level: Info
+26.03.2023. 17:52:50 : The Network Model Service is started.
+26.03.2023. 17:52:50 : Press <Enter> to stop the service.
+26.03.2023. 17:53:21 : Applying  delta to network model.
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000100000001).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000200000001).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000300000001).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000300000002).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000400000001).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000400000002).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000500000001).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000500000002).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000600000001).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000600000002).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000001).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000002).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000003).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000004).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000005).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000006).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000007).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000008).
+26.03.2023. 17:53:21 : Inserting entity with GID (0000000700000009).
+26.03.2023. 17:53:21 : Inserting entity with GID (000000070000000a).
+26.03.2023. 17:53:21 : Inserting entity with GID (000000070000000b).
+26.03.2023. 17:53:21 : Inserting entity with GID (000000070000000c).
+26.03.2023. 17:53:21 : Applying delta to network model successfully finished.
+26.03.2023. 17:53:37 : Starting Network Model Serivice...
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000100000001).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000200000001).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000300000001).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000300000002).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000400000001).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000400000002).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000500000001).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000500000002).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000600000001).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000600000002).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000001).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000002).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000003).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000004).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000005).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000006).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000007).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000008).
+26.03.2023. 17:53:37 : Inserting entity with GID (0000000700000009).
+26.03.2023. 17:53:37 : Inserting entity with GID (000000070000000a).
+26.03.2023. 17:53:37 : Inserting entity with GID (000000070000000b).
+26.03.2023. 17:53:37 : Inserting entity with GID (000000070000000c).
+26.03.2023. 17:53:38 : The WCF service GenericDataAccess is ready.
+26.03.2023. 17:53:38 : Endpoints:
+26.03.2023. 17:53:38 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 17:53:38 : Connection string: ../NetworkModelData.data
+26.03.2023. 17:53:38 : Trace level: Info
+26.03.2023. 17:53:38 : The Network Model Service is started.
+26.03.2023. 17:53:38 : Press <Enter> to stop the service.
+26.03.2023. 21:03:04 : Starting Network Model Serivice...
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000100000001).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000200000001).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000300000001).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000300000002).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000400000001).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000400000002).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000500000001).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000500000002).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000600000001).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000600000002).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000001).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000002).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000003).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000004).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000005).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000006).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000007).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000008).
+26.03.2023. 21:03:04 : Inserting entity with GID (0000000700000009).
+26.03.2023. 21:03:04 : Inserting entity with GID (000000070000000a).
+26.03.2023. 21:03:04 : Inserting entity with GID (000000070000000b).
+26.03.2023. 21:03:04 : Inserting entity with GID (000000070000000c).
+26.03.2023. 21:03:07 : The WCF service GenericDataAccess is ready.
+26.03.2023. 21:03:07 : Endpoints:
+26.03.2023. 21:03:07 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 21:03:07 : Connection string: ../NetworkModelData.data
+26.03.2023. 21:03:07 : Trace level: Info
+26.03.2023. 21:03:07 : The Network Model Service is started.
+26.03.2023. 21:03:07 : Press <Enter> to stop the service.
+26.03.2023. 21:15:28 : Starting Network Model Serivice...
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000100000001).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000200000001).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000300000001).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000300000002).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000400000001).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000400000002).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000500000001).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000500000002).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000600000001).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000600000002).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000001).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000002).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000003).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000004).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000005).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000006).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000007).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000008).
+26.03.2023. 21:15:28 : Inserting entity with GID (0000000700000009).
+26.03.2023. 21:15:28 : Inserting entity with GID (000000070000000a).
+26.03.2023. 21:15:28 : Inserting entity with GID (000000070000000b).
+26.03.2023. 21:15:28 : Inserting entity with GID (000000070000000c).
+26.03.2023. 21:15:29 : The WCF service GenericDataAccess is ready.
+26.03.2023. 21:15:29 : Endpoints:
+26.03.2023. 21:15:29 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 21:15:29 : Connection string: ../NetworkModelData.data
+26.03.2023. 21:15:29 : Trace level: Info
+26.03.2023. 21:15:29 : The Network Model Service is started.
+26.03.2023. 21:15:29 : Press <Enter> to stop the service.
+26.03.2023. 21:51:18 : Starting Network Model Serivice...
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000100000001).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000200000001).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000300000001).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000300000002).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000400000001).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000400000002).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000500000001).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000500000002).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000600000001).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000600000002).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000001).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000002).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000003).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000004).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000005).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000006).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000007).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000008).
+26.03.2023. 21:51:18 : Inserting entity with GID (0000000700000009).
+26.03.2023. 21:51:18 : Inserting entity with GID (000000070000000a).
+26.03.2023. 21:51:18 : Inserting entity with GID (000000070000000b).
+26.03.2023. 21:51:18 : Inserting entity with GID (000000070000000c).
+26.03.2023. 21:51:19 : The WCF service GenericDataAccess is ready.
+26.03.2023. 21:51:19 : Endpoints:
+26.03.2023. 21:51:19 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 21:51:19 : Connection string: ../NetworkModelData.data
+26.03.2023. 21:51:19 : Trace level: Info
+26.03.2023. 21:51:19 : The Network Model Service is started.
+26.03.2023. 21:51:19 : Press <Enter> to stop the service.
+26.03.2023. 22:17:42 : Starting Network Model Serivice...
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000100000001).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000200000001).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000300000001).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000300000002).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000400000001).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000400000002).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000500000001).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000500000002).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000600000001).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000600000002).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000001).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000002).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000003).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000004).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000005).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000006).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000007).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000008).
+26.03.2023. 22:17:42 : Inserting entity with GID (0000000700000009).
+26.03.2023. 22:17:42 : Inserting entity with GID (000000070000000a).
+26.03.2023. 22:17:42 : Inserting entity with GID (000000070000000b).
+26.03.2023. 22:17:42 : Inserting entity with GID (000000070000000c).
+26.03.2023. 22:17:43 : The WCF service GenericDataAccess is ready.
+26.03.2023. 22:17:43 : Endpoints:
+26.03.2023. 22:17:43 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 22:17:43 : Connection string: ../NetworkModelData.data
+26.03.2023. 22:17:43 : Trace level: Info
+26.03.2023. 22:17:43 : The Network Model Service is started.
+26.03.2023. 22:17:43 : Press <Enter> to stop the service.
+26.03.2023. 22:34:31 : Starting Network Model Serivice...
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000100000001).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000200000001).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000300000001).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000300000002).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000400000001).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000400000002).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000500000001).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000500000002).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000600000001).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000600000002).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000001).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000002).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000003).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000004).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000005).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000006).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000007).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000008).
+26.03.2023. 22:34:31 : Inserting entity with GID (0000000700000009).
+26.03.2023. 22:34:31 : Inserting entity with GID (000000070000000a).
+26.03.2023. 22:34:31 : Inserting entity with GID (000000070000000b).
+26.03.2023. 22:34:31 : Inserting entity with GID (000000070000000c).
+26.03.2023. 22:34:31 : The WCF service GenericDataAccess is ready.
+26.03.2023. 22:34:31 : Endpoints:
+26.03.2023. 22:34:31 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 22:34:31 : Connection string: ../NetworkModelData.data
+26.03.2023. 22:34:31 : Trace level: Info
+26.03.2023. 22:34:31 : The Network Model Service is started.
+26.03.2023. 22:34:31 : Press <Enter> to stop the service.
+26.03.2023. 22:38:43 : Starting Network Model Serivice...
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000100000001).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000200000001).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000300000001).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000300000002).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000400000001).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000400000002).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000500000001).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000500000002).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000600000001).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000600000002).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000001).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000002).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000003).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000004).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000005).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000006).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000007).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000008).
+26.03.2023. 22:38:43 : Inserting entity with GID (0000000700000009).
+26.03.2023. 22:38:43 : Inserting entity with GID (000000070000000a).
+26.03.2023. 22:38:43 : Inserting entity with GID (000000070000000b).
+26.03.2023. 22:38:43 : Inserting entity with GID (000000070000000c).
+26.03.2023. 22:38:44 : The WCF service GenericDataAccess is ready.
+26.03.2023. 22:38:44 : Endpoints:
+26.03.2023. 22:38:44 : net.tcp://localhost:10000/NetworkModelService/GDA/
+26.03.2023. 22:38:44 : Connection string: ../NetworkModelData.data
+26.03.2023. 22:38:44 : Trace level: Info
+26.03.2023. 22:38:44 : The Network Model Service is started.
+26.03.2023. 22:38:44 : Press <Enter> to stop the service.
+27.03.2023. 7:17:33 : Starting Network Model Serivice...
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000100000001).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000200000001).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000300000001).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000300000002).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000400000001).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000400000002).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000500000001).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000500000002).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000600000001).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000600000002).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000001).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000002).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000003).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000004).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000005).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000006).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000007).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000008).
+27.03.2023. 7:17:33 : Inserting entity with GID (0000000700000009).
+27.03.2023. 7:17:33 : Inserting entity with GID (000000070000000a).
+27.03.2023. 7:17:33 : Inserting entity with GID (000000070000000b).
+27.03.2023. 7:17:33 : Inserting entity with GID (000000070000000c).
+27.03.2023. 7:17:35 : The WCF service GenericDataAccess is ready.
+27.03.2023. 7:17:35 : Endpoints:
+27.03.2023. 7:17:35 : net.tcp://localhost:10000/NetworkModelService/GDA/
+27.03.2023. 7:17:35 : Connection string: ../NetworkModelData.data
+27.03.2023. 7:17:35 : Trace level: Info
+27.03.2023. 7:17:35 : The Network Model Service is started.
+27.03.2023. 7:17:35 : Press <Enter> to stop the service.
+27.03.2023. 8:11:00 : Starting Network Model Serivice...
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000100000001).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000200000001).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000300000001).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000300000002).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000400000001).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000400000002).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000500000001).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000500000002).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000600000001).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000600000002).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000001).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000002).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000003).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000004).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000005).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000006).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000007).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000008).
+27.03.2023. 8:11:01 : Inserting entity with GID (0000000700000009).
+27.03.2023. 8:11:01 : Inserting entity with GID (000000070000000a).
+27.03.2023. 8:11:01 : Inserting entity with GID (000000070000000b).
+27.03.2023. 8:11:01 : Inserting entity with GID (000000070000000c).
+27.03.2023. 8:11:01 : The WCF service GenericDataAccess is ready.
+27.03.2023. 8:11:01 : Endpoints:
+27.03.2023. 8:11:01 : net.tcp://localhost:10000/NetworkModelService/GDA/
+27.03.2023. 8:11:01 : Connection string: ../NetworkModelData.data
+27.03.2023. 8:11:01 : Trace level: Info
+27.03.2023. 8:11:01 : The Network Model Service is started.
+27.03.2023. 8:11:01 : Press <Enter> to stop the service.

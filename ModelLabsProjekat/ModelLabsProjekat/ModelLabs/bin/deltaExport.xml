@@ -1,0 +1,206 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="22">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="REACTIVECAPABILITYCURVE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RC_CUR_111111" />
+            <Property id="IDOBJ_NAME" value="Reactive Capability Curve 111111" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TER_111111" />
+            <Property id="IDOBJ_NAME" value="Terminal 111111" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="REG_CTRL_111111" />
+            <Property id="IDOBJ_NAME" value="Regulating Control 111111" />
+            <Property id="REGULATINGCONTROL_DISCRETE" value="1" />
+            <Property id="REGULATINGCONTROL_MODE" value="C" />
+            <Property id="REGULATINGCONTROL_MONITOREDPHASE" value="Temperature" />
+            <Property id="REGULATINGCONTROL_TARGETRANGE" value="5" />
+            <Property id="REGULATINGCONTROL_TARGETVALUE" value="10" />
+            <Property id="REGULATINGCONTROL_TERMINAL" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="REG_CTRL_222222" />
+            <Property id="IDOBJ_NAME" value="Regulating Control 222222" />
+            <Property id="REGULATINGCONTROL_DISCRETE" value="0" />
+            <Property id="REGULATINGCONTROL_MODE" value="BC" />
+            <Property id="REGULATINGCONTROL_MONITOREDPHASE" value="12" />
+            <Property id="REGULATINGCONTROL_TARGETRANGE" value="10" />
+            <Property id="REGULATINGCONTROL_TARGETVALUE" value="20" />
+            <Property id="REGULATINGCONTROL_TERMINAL" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="SHUNTCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SHT_COMP_111111" />
+            <Property id="IDOBJ_NAME" value="Shunt Compensator 111111" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="1" />
+            <Property id="REGULATINGCONDEQ_REGULATINGCTRL" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="SHUNTCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SHT_COMP_222222" />
+            <Property id="IDOBJ_NAME" value="Shunt Compensator 222222" />
+            <Property id="EQUIPMENT_AGGREGATE" value="0" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="0" />
+            <Property id="REGULATINGCONDEQ_REGULATINGCTRL" value="0x00000003fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="STATICVARCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SV_COMP_111111" />
+            <Property id="IDOBJ_NAME" value="Static Var Compensator 111111" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="1" />
+            <Property id="REGULATINGCONDEQ_REGULATINGCTRL" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="STATICVARCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SV_COMP_222222" />
+            <Property id="IDOBJ_NAME" value="Static Var Compensator 222222" />
+            <Property id="EQUIPMENT_AGGREGATE" value="0" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="0" />
+            <Property id="REGULATINGCONDEQ_REGULATINGCTRL" value="0x00000003fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="SYNCHRONOUSMACHINE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SYN_MACH_111111" />
+            <Property id="IDOBJ_NAME" value="Synchronous Machine 111111" />
+            <Property id="EQUIPMENT_AGGREGATE" value="1" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="1" />
+            <Property id="REGULATINGCONDEQ_REGULATINGCTRL" value="0x00000003ffffffff" />
+            <Property id="SYNCHRONOUSMACHINE_REACTCAPCURVE" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="SYNCHRONOUSMACHINE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SYN_MACH_222222" />
+            <Property id="IDOBJ_NAME" value="Synchronous Machine 222222" />
+            <Property id="EQUIPMENT_AGGREGATE" value="0" />
+            <Property id="EQUIPMENT_NORMALLYSERVICE" value="0" />
+            <Property id="REGULATINGCONDEQ_REGULATINGCTRL" value="0x00000003fffffffe" />
+            <Property id="SYNCHRONOUSMACHINE_REACTCAPCURVE" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007ffffffff" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SHT_111111" />
+            <Property id="IDOBJ_NAME" value="Control SHT_111111" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffe" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SHT_111112" />
+            <Property id="IDOBJ_NAME" value="Control SHT_1111112" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffd" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SHT_222221" />
+            <Property id="IDOBJ_NAME" value="Control SHT_222221" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000004fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffc" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SHT_222222" />
+            <Property id="IDOBJ_NAME" value="Control SHT_222222" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000004fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffb" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SV_111111" />
+            <Property id="IDOBJ_NAME" value="Control SV_111111" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffa" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SV_111112" />
+            <Property id="IDOBJ_NAME" value="Control CTRL_SV_111112" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffff9" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SV_222221" />
+            <Property id="IDOBJ_NAME" value="Control SV_222221" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000005fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffff8" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SV_222222" />
+            <Property id="IDOBJ_NAME" value="Control SV_222222" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000005fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffff7" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SYN_111111" />
+            <Property id="IDOBJ_NAME" value="Control SYN_111111" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffff6" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SYN_111112" />
+            <Property id="IDOBJ_NAME" value="Control SYN_111112" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffff5" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SYN_222221" />
+            <Property id="IDOBJ_NAME" value="Control SYN_222221" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000006fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffff4" type="CONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CTRL_SYN_222222" />
+            <Property id="IDOBJ_NAME" value="Control SYN_222222" />
+            <Property id="CONTROL_REGCONDEQUIPMENT" value="0x00000006fffffffe" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
